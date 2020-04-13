@@ -1,9 +1,9 @@
 1. Tham trị vs tham chiếu là gi?
 2. Các khái niệm:
-    - stored by value  (Được lưu trữ theo giá trị)
-    - stored by reference (Được lưu trữ bởi tài liệu tham khảo)
-    - pass by value (Vượt qua giá trị)
-    - pass by reference (Vượt qua bằng cách tham khảo)
+    - stored by value  (Tham trị)
+    - stored by reference (Tham chiếu)
+    - pass by value (Truyền tham số dạng tham trị)
+    - pass by reference (Truyền tham số dạng tham chiếu)
 3. Cách khắc phục lỗi liên quan đến reference
-4. Có liên quan gì đến ReactJS, Redex hk>
+4. Có liên quan gì đến ReactJS, Redux hk>
 
